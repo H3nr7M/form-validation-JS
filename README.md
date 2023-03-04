@@ -1,6 +1,6 @@
 # Form validation using JavaScript
 
-This is a simple form validation using JavaScript. It is a simple form with. The form is validated when the user clicks on the submit button. The form is validated using JavaScript regular expressions.
+This is a simple form validation using JavaScript. It is a simple form with. The form is validated when the user clicks on the submit button. The form is validated using JavaScript regular expressions. Don't worry the code is well commented.
 
 ## How to use
 
